@@ -1,5 +1,5 @@
 - Crear una base de datos con el nombre que se crea más conveniente, utf8_bin o en su defecto utf8_spanish_ci
-- Ir a la carpeta copiar y pegar las consultas en su base de datos, comenzando por structure y posteriormente data o bien puede importar los archivos .sql
+- Ir a la carpeta SQL copiar y pegar las consultas en su base de datos, comenzando por structure y posteriormente data o bien puede importar los archivos .sql
 - Ir al archivo Database.php e ingresar los datos correspondientes a su servidor local y la base de datos
 
 
